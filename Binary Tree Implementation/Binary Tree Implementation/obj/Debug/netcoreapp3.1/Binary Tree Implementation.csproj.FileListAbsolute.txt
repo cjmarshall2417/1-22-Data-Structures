@@ -1,0 +1,11 @@
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\bin\Debug\netcoreapp3.1\Binary Tree Implementation.exe
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\bin\Debug\netcoreapp3.1\Binary Tree Implementation.deps.json
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\bin\Debug\netcoreapp3.1\Binary Tree Implementation.runtimeconfig.json
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\bin\Debug\netcoreapp3.1\Binary Tree Implementation.runtimeconfig.dev.json
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\bin\Debug\netcoreapp3.1\Binary Tree Implementation.dll
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\bin\Debug\netcoreapp3.1\Binary Tree Implementation.pdb
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\obj\Debug\netcoreapp3.1\Binary Tree Implementation.csprojAssemblyReference.cache
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\obj\Debug\netcoreapp3.1\Binary Tree Implementation.AssemblyInfoInputs.cache
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\obj\Debug\netcoreapp3.1\Binary Tree Implementation.AssemblyInfo.cs
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\obj\Debug\netcoreapp3.1\Binary Tree Implementation.dll
+C:\Users\hstua\source\repos\Binary Tree Implementation\Binary Tree Implementation\obj\Debug\netcoreapp3.1\Binary Tree Implementation.pdb
